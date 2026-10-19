@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Calculadora (terminal)",
+      "type": "dart",
+      "request": "launch",
+      "program": "terminal/bin/calculadora.dart",
+      "cwd": "${workspaceFolder}/terminal",
+      "console": "terminal"
+    },
+    {
+      "name": "Calculadora (app Flutter)",
+      "type": "dart",
+      "request": "launch",
+      "program": "app/lib/main.dart",
+      "cwd": "${workspaceFolder}/app"
+    }
+  ]
+}

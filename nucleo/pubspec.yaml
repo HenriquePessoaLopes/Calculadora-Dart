@@ -1,0 +1,11 @@
+name: calculadora_nucleo
+description: Contas, leitura e formatação de números e a lógica do visor, usadas pela calculadora de terminal e pelo app Flutter.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.9.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
